@@ -1,4 +1,4 @@
-### Olá! Eu sou o Diogo Barros 🔥
+### Olá! Eu sou o Diogo Barros!🔥
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dbarroos)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogofbarros@icloud.com)
@@ -7,7 +7,7 @@
 
 ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoBdev&show_icons=true&theme=tokyonight)
 
-### Tecnologia que utilizo no meu dia!
+### Estudo as seguintes linguagens!
 
 <div style="display: incline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
