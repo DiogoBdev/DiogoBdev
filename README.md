@@ -5,7 +5,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dbarroos)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@dbarroos)
 
-![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoBdev&show_icons=true&theme=tokyonight&cache_buster=<?= time() ?>)
+![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoBdev&show_icons=true&theme=tokyonight)(&cache_buster=<?= time() ?>)
+
 
 ### Estudando as seguintes linguagens!💻
 
