@@ -6,8 +6,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@dbarroos)
 
 
-![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoBdev&show_icons=true&theme=tokyonight&cache_buster=1)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoBdev&layout=compact&theme=tokyonight&cache_buster=1)
 
 
