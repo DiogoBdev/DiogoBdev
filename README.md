@@ -1,6 +1,6 @@
 # Hey, I'm Diogo
 
-Backend developer from Brazil. Most of my days go into Node.js and PHP, and lately into putting AI to work on real problems: agents that answer the phone, read through sales meetings and make decisions on their own. I like small, fast setups (SQLite is usually my first pick) and code that's still easy to read six months later.
+Backend developer from Brazil. Most of my days go into Node.js and PHP, and lately into putting AI to work on real problems: agents that answer the phone, read through sales meetings and make decisions on their own.
 
 ## What I'm building
 
